@@ -9,9 +9,16 @@
     "start": "next start",
     "export": "next export"
   },
-  "keywords": [],
-  "author": "",
+    "repository": {
+    "type": "git",
+    "url": "git+https://github.com/solygambas/next-batman.git"
+  },
+  "author": "solygambas",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/solygambas/next-batman/issues"
+  },
+  "homepage": "https://github.com/solygambas/next-batman#readme",
   "dependencies": {
     "isomorphic-unfetch": "^3.0.0",
     "next": "^9.1.1",
