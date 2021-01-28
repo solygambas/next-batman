@@ -48,5 +48,7 @@ A very simple blog app.
 - handling dynamic routes with getStaticPaths.
 - rendering markdown with remark and remark-html.
 - formatting dates with date-fns.
+- creating an API route.
+- deploying on Vercel.
 
 Based on [Learn Next.js](https://nextjs.org/learn).
