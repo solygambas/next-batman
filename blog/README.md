@@ -4,7 +4,7 @@ A very simple blog app.
 
 ## Demo
 
-[See Demo deployed on Now]()
+[See Demo deployed on Vercel](https://next-blog-dagny.vercel.app/)
 
 ## Features
 
