@@ -18,4 +18,4 @@ A web app about Batman TV Shows to understand Next.js basics.
 - deploying on ZEIT Now.
 - exporting into a static HTML app.
 
-Based on [Learn Next.js](https://nextjs.org/learn/basics/create-nextjs-app).
+Based on [Learn Next.js](https://nextjs.org/learn).

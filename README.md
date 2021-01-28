@@ -42,7 +42,8 @@ A very simple blog app.
 - creating a Next.js app.
 - navigating between pages with Link.
 - creating a layout and handling metadata with Head.
-- styling the pages with CSS modules and global import via \_app.
+- styling pages with CSS modules and global import via \_app.
 - serving static assets like images with public folder.
+- fetching data with gray-matter and getStaticProps.
 
-Based on [Create a Next.js App](https://nextjs.org/learn/basics/create-nextjs-app).
+Based on [Learn Next.js](https://nextjs.org/learn).
