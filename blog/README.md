@@ -13,6 +13,9 @@ A very simple blog app.
 - creating a layout and handling metadata with Head.
 - styling pages with CSS modules and global import via \_app.
 - serving static assets like images with public folder.
-- fetching data with gray-matter and getStaticProps.
+- fetching markdown posts with gray-matter and getStaticProps.
+- handling dynamic routes with getStaticPaths.
+- rendering markdown with remark and remark-html.
+- formatting dates with date-fns.
 
 Based on [Learn Next.js](https://nextjs.org/learn).
