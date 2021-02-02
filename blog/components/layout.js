@@ -1,7 +1,8 @@
 import Head from "next/head";
+import Link from "next/link";
+import Image from "next/image";
 import styles from "../styles/layout.module.css";
 import utilStyles from "../styles/utils.module.css";
-import Link from "next/link";
 
 const name = "Dagny Taggart";
 export const siteTitle = "Next.js Sample Website";
@@ -27,9 +28,11 @@ export default function Layout({ children, home }) {
       <header className={styles.header}>
         {home ? (
           <>
-            <img
+            <Image
               src="/images/profile.jpg"
               className={`${styles.headerHomeImage} ${utilStyles.borderCircle}`}
+              width={128}
+              height={128}
               alt={name}
             />
             <h1 className={utilStyles.heading2Xl}>{name}</h1>
@@ -38,9 +41,11 @@ export default function Layout({ children, home }) {
           <>
             <Link href="/">
               <a>
-                <img
+                <Image
                   src="/images/profile.jpg"
                   className={`${styles.headerImage} ${utilStyles.borderCircle}`}
+                  width={96}
+                  height={96}
                   alt={name}
                 />
               </a>

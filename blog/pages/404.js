@@ -1,8 +1,17 @@
+import { useEffect } from "react";
+import { useRouter } from "next/router";
 import Head from "next/head";
 import Layout from "../components/Layout";
 import utilStyles from "../styles/utils.module.css";
 
 export default function Custom404() {
+  const router = useRouter();
+  useEffect(() => {
+    setTimeout(() => {
+      // router.go(-1)
+      router.push("/");
+    }, 3000);
+  }, []);
   return (
     <Layout>
       <Head>
