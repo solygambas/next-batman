@@ -1,10 +1,10 @@
-# Gaming Vibes
+# Game Vibes
 
 ...
 
 ## Demo
 
-[See Demo deployed on Netlify](#)
+[See Demo deployed on Netlify](https://gamevibes.netlify.app/)
 
 ## Features
 
