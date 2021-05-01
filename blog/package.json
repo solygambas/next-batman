@@ -1,12 +1,21 @@
 {
   "name": "learn-starter",
   "version": "0.1.0",
-  "private": true,
   "scripts": {
     "dev": "next dev",
     "build": "next build",
     "start": "next start"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/solygambas/next-batman.git"
+  },
+  "author": "solygambas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/solygambas/next-batman/issues"
+  },
+  "homepage": "https://github.com/solygambas/next-batman#readme",
   "dependencies": {
     "date-fns": "^2.16.1",
     "gray-matter": "^4.0.2",
