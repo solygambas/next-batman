@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap');
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@300;400;500;600;700&display=swap");
 
 /* base styles */
 :root {
@@ -7,7 +7,7 @@
 body {
   padding: 0;
   margin: 0 20px;
-  font-family: 'Quicksand', sans-serif;
+  font-family: "Quicksand", sans-serif;
   color: #444;
   background: #f2f2f2;
 }
@@ -38,6 +38,11 @@ nav li {
   display: inline-block;
   margin-left: 16px;
 }
+
+nav li.user {
+  font-weight: bolder;
+}
+
 nav li.btn {
   padding: 10px 16px;
   border: 2px solid var(--primary);
