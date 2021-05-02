@@ -2,15 +2,11 @@ import Link from "next/link";
 import Image from "next/image";
 import { useContext } from "react";
 import AuthContext from "../stores/authContext";
+import capitalize from "../utils/capitalize";
 
 export default function Navbar() {
   const { user, login, logout, authReady } = useContext(AuthContext);
   // console.log(user);
-
-  const capitalize = (s) => {
-    if (typeof s !== "string") return "";
-    return s.charAt(0).toUpperCase() + s.slice(1);
-  };
 
   return (
     <div className="container">
