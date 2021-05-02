@@ -5,6 +5,7 @@
 ## Demo
 
 [See Demo deployed on Netlify](https://gamevibes.netlify.app/)
+(Email: mario@bros.com - Password: mariobros)
 
 ## Features
 
