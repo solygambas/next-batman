@@ -103,4 +103,4 @@ A small recipe app combining Next.js with Contentful.
 
 -
 
-Based on [Next.js & Contentful Site Build Tutorial](https://www.youtube.com/watch?v=m9mNsYJbkNg) by Shaun Pelling - The Net Ninja (2021).
+Based on [Next.js & Contentful Site Build Tutorial](https://www.youtube.com/watch?v=m9mNsYJbkNg&list=PL4cUxeGkcC9jClk8wl1yJcN3Zlrr8YSA1) by Shaun Pelling - The Net Ninja (2021).
