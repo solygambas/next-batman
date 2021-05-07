@@ -1,10 +1,11 @@
 # Next.js basics
 
-This repo is made of 3 projects:
+This repo is made of 4 projects:
 
 1. [**Batman App**](#batman): A web app about Batman TV Shows to understand Next.js basics.
 2. [**Blog App**](#blog): A very simple blog app.
 3. [**Game Vibes**](#gamevibes): A quick project using Netlify Identity with Next.js.
+4. [**Marmite**](#marmite): A small recipe app combining Next.js with Contentful.
 
 ## <a name="batman"></a>1) Batman app
 
@@ -81,3 +82,25 @@ A quick project using Netlify Identity with Next.js.
 - enabling Google and GitHub as auth providers.
 
 Based on [Next.js & Identity (auth) Tutorial](https://www.youtube.com/watch?v=IM7a6BxNof8&list=PL4cUxeGkcC9ig-veuRaLI4QB0Ws8xMzjv) by Shaun Pelling - The Net Ninja (2021).
+
+## <a name="marmite"></a>4) Marmite
+
+A small recipe app combining Next.js with Contentful.
+
+[See marmite folder](https://github.com/solygambas/next-batman/tree/master/marmite)
+
+## Demo
+
+[See Demo deployed on Vercel](https://justaddmarmite.vercel.app/)
+
+<p align="center">
+    <a href="https://github.com/solygambas/next-batman/tree/master/marmite">
+        <img src="marmite/screenshot.png">
+    </a>
+</p>
+
+## Features
+
+-
+
+Based on [Next.js & Contentful Site Build Tutorial](https://www.youtube.com/watch?v=m9mNsYJbkNg) by Shaun Pelling - The Net Ninja (2021).

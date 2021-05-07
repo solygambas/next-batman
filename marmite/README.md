@@ -1,13 +1,13 @@
 # Marmite
 
-...
+A small recipe app combining Next.js with Contentful.
 
 ## Demo
 
-[See Demo deployed on Vercel](#)
+[See Demo deployed on Vercel](https://justaddmarmite.vercel.app/)
 
 <p align="center">
-        <!-- <img src="screenshot.png"> -->
+        <img src="screenshot.png">
 </p>
 
 ## Features
