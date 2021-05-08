@@ -39,6 +39,12 @@ A very simple blog app.
 
 [See Demo deployed on Vercel](https://next-blog-dagny.vercel.app/)
 
+<p align="center">
+    <a href="https://github.com/solygambas/next-batman/tree/master/blog">
+        <img src="blog/screenshot.png">
+    </a>
+</p>
+
 ### Features
 
 - creating a Next.js app.

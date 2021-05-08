@@ -6,6 +6,10 @@ A very simple blog app.
 
 [See Demo deployed on Vercel](https://next-blog-dagny.vercel.app/)
 
+<p align="center">
+        <img src="screenshot.png">
+</p>
+
 ## Features
 
 - creating a Next.js app.
