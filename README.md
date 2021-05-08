@@ -111,7 +111,7 @@ A small recipe app combining Next.js with Contentful.
 - handling incremental static regeneration with revalidate.
 - displaying a skeleton to handle server-side rendering on new recipes.
 - building a custom 404 page and redirecting users.
-- creating a Vercel deploy hook and trigger builds from Contentful.
+- creating a Vercel deploy hook to trigger builds from Contentful.
 - deploying to Vercel.
 
 Based on [Next.js & Contentful Site Build Tutorial](https://www.youtube.com/watch?v=m9mNsYJbkNg&list=PL4cUxeGkcC9jClk8wl1yJcN3Zlrr8YSA1) by Shaun Pelling - The Net Ninja (2021).
