@@ -67,7 +67,7 @@ A quick project using Netlify Identity with Next.js.
 
 [See game-vibes folder](https://github.com/solygambas/next-batman/tree/master/game-vibes)
 
-## Demo
+### Demo
 
 [See Demo deployed on Netlify](https://gamevibes.netlify.app/)
 (Email: mario@bros.com - Password: mariobros)
@@ -78,7 +78,7 @@ A quick project using Netlify Identity with Next.js.
     </a>
 </p>
 
-## Features
+### Features
 
 - installing Netlify Identity Widget and deploying on Netlify.
 - creating an auth context with useContext.
@@ -95,7 +95,7 @@ A small recipe app combining Next.js with Contentful.
 
 [See marmite folder](https://github.com/solygambas/next-batman/tree/master/marmite)
 
-## Demo
+### Demo
 
 [See Demo deployed on Vercel](https://justaddmarmite.vercel.app/)
 
@@ -105,7 +105,7 @@ A small recipe app combining Next.js with Contentful.
     </a>
 </p>
 
-## Features
+### Features
 
 - building a content model and adding recipes on Contentful.
 - configuring Contentful client in a Next.js project.
