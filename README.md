@@ -1,11 +1,13 @@
 # Next.js basics
 
-This repo is made of 4 projects:
+4 small projects to understand Next.js basics.
 
-1. [**Batman App**](#batman): A web app about Batman TV Shows to understand Next.js basics.
-2. [**Blog App**](#blog): A very simple blog app.
-3. [**Game Vibes**](#gamevibes): A quick project using Netlify Identity with Next.js.
-4. [**Marmite**](#marmite): A small recipe app combining Next.js with Contentful.
+| #   | Project                           | Description                                           |
+| --- | --------------------------------- | ----------------------------------------------------- |
+| 01  | [**Batman App**](#batman) | A web app about Batman TV Shows to understand Next.js basics.               |
+| 02  | [**Blog App**](#blog)        | A very simple blog app.           |
+| 03  | [**Game Vibes**](#gamevibes)     | A quick project using Netlify Identity with Next.js.                                 |
+| 04  | [**Marmite**](#marmite)    | A small recipe app combining Next.js with Contentful.                     |
 
 ## <a name="batman"></a>1) Batman app
 
