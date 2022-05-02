@@ -2,18 +2,18 @@
 
 4 small projects to understand Next.js basics.
 
-| #   | Project                           | Description                                           |
-| --- | --------------------------------- | ----------------------------------------------------- |
-| 01  | [**Batman App**](#batman) | A web app about Batman TV Shows to understand Next.js basics.               |
-| 02  | [**Blog App**](#blog)        | A very simple blog app.           |
-| 03  | [**Game Vibes**](#gamevibes)     | A quick project using Netlify Identity with Next.js.                                 |
-| 04  | [**Marmite**](#marmite)    | A small recipe app combining Next.js with Contentful.                     |
+| #   | Project                      | Description                                                   |
+| --- | ---------------------------- | ------------------------------------------------------------- |
+| 01  | [**Batman App**](#batman)    | A web app about Batman TV Shows to understand Next.js basics. |
+| 02  | [**Blog App**](#blog)        | A very simple blog app.                                       |
+| 03  | [**Game Vibes**](#gamevibes) | A quick project using Netlify Identity with Next.js.          |
+| 04  | [**Marmite**](#marmite)      | A small recipe app combining Next.js with Contentful.         |
 
 ## <a name="batman"></a>1) Batman app
 
 A web app about Batman TV Shows to understand Next.js basics.
 
-[See batman folder](https://github.com/solygambas/next-batman/tree/master/batman)
+[See batman folder](batman)
 
 ### Demo
 
@@ -35,14 +35,14 @@ A web app about Batman TV Shows to understand Next.js basics.
 
 A very simple blog app.
 
-[See blog folder](https://github.com/solygambas/next-batman/tree/master/blog)
+[See blog folder](blog)
 
 ### Demo
 
 [See Demo deployed on Vercel](https://next-blog-dagny.vercel.app/)
 
 <p align="center">
-    <a href="https://github.com/solygambas/next-batman/tree/master/blog">
+    <a href="blog">
         <img src="blog/screenshot.png">
     </a>
 </p>
@@ -67,7 +67,7 @@ Based on [Learn Next.js](https://nextjs.org/learn).
 
 A quick project using Netlify Identity with Next.js.
 
-[See game-vibes folder](https://github.com/solygambas/next-batman/tree/master/game-vibes)
+[See game-vibes folder](game-vibes)
 
 ### Demo
 
@@ -75,7 +75,7 @@ A quick project using Netlify Identity with Next.js.
 (Email: mario@bros.com - Password: mariobros)
 
 <p align="center">
-    <a href="https://github.com/solygambas/next-batman/tree/master/game-vibes">
+    <a href="game-vibes">
         <img src="game-vibes/screenshot.png">
     </a>
 </p>
@@ -95,14 +95,14 @@ Based on [Next.js & Identity (auth) Tutorial](https://www.youtube.com/watch?v=IM
 
 A small recipe app combining Next.js with Contentful.
 
-[See marmite folder](https://github.com/solygambas/next-batman/tree/master/marmite)
+[See marmite folder](marmite)
 
 ### Demo
 
 [See Demo deployed on Vercel](https://justaddmarmite.vercel.app/)
 
 <p align="center">
-    <a href="https://github.com/solygambas/next-batman/tree/master/marmite">
+    <a href="marmite">
         <img src="marmite/screenshot.png">
     </a>
 </p>
