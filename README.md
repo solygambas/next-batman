@@ -15,10 +15,6 @@ A web app about Batman TV Shows to understand Next.js basics.
 
 [See batman folder](batman)
 
-### Demo
-
-[See Demo deployed on Now](https://hello-next.solygambas.now.sh/)
-
 ### Features
 
 - starting a Next.js project.
